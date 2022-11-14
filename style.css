@@ -1,0 +1,41 @@
+/*-- CSS Reset --*/ 
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+/*-- Start main styling --*/
+
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: baskerville-urw, serif;
+}
+
+section, header, footer {
+    width: 80;
+    max-width: 700px;
+    margin: auto;
+}
+
+section, header {
+    margin-bottom: 4rem;
+}
+
+p, blockquote {
+    padding: 2rem 0 .5rem 0;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 5.653rem;
+    margin-top: 5rem;
+    padding-bottom: 0;
+}
+
+h2{
+    
+}
